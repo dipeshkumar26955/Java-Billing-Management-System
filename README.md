@@ -144,5 +144,4 @@ Product Management and Customer Management modules have been started, including 
 ## 🎓 Learning Outcomes
 This project aims to improve practical understanding of Java programming, OOP concepts, file handling, data management, modular programming, debugging, and Git/GitHub version control.
 
-## 👨‍💻 Author
-Student Developer
+## 👨‍💻 Author - DIPESH
